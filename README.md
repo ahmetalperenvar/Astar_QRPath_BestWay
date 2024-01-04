@@ -1,0 +1,1 @@
+This repository includes a small part of Navigation for QR Map System. Astar algorithm used for finding best path. The path has symbolic points. A symbolic point has QR code id, QR code x,y,heading , and also qr code's neighborhood relations.
